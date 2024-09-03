@@ -1,0 +1,10 @@
+/project/logs
+/vendor
+/project/.phpunit.result.cache
+/project/.composer.lock
+.phpunit.result.cache
+.idea
+/.phpunit.result.cache
+/project/vendor/
+/project/composer.lock
+/project/phpunit.xml.dist
