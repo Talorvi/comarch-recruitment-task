@@ -67,4 +67,10 @@ http://localhost:8080/scripts/initialize_database.php
 http://localhost:8080/
 ```
 
+6. To run the tests run:
+
+```bash
+docker exec -it comarch-php-1 ../vendor/bin/phpunit ../tests
+```
+
 The emails sent will be logged in `/comarch-recruitment-task/project/logs/email_log.txt`.
